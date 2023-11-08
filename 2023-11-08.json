@@ -1,0 +1,26 @@
+{
+  "name": "Troy Luna",
+  "age": 39,
+  "address": {
+    "street": "Siwe Key",
+    "city": "Enzibak",
+    "state": "ME",
+    "zip": "19698"
+  },
+  "contact": {
+    "phone": "(310) 702-2283",
+    "servicePhone": "800439711"
+  },
+  "birthday": "1978-09-14T00:51:54.977Z",
+  "ip": "159.206.45.129",
+  "foo": "bar",
+  "profile": {
+    "about": "Ogoolu huv zi iberihom ibvol gow om kafkubwi nobon aja gaz apo. Ji roog henge taghorjen do ce gom ijebojpes ju pa wulu deri. Azjotup fug jojed calo pualu pozzahbaf fuztesri magfafrab ni me zoeto omiitik ko pilef gir.",
+    "bio": "Ijiaz wiwulodez otve rapvadu jubij fisjotme naf tisugav fekkoz cuzaj wuk satonfen obi dadfe. Mob bu vonhe kafupko figovjur cuma uco munuf da obeoc mirmo ho. Tom leuvjep pa hessesok utobupni cozobeg sotdob wipu ga ato dooc ivokutwo fufpupoh uludehev avuceden wevuan iwirarir. Raskedbi evohsi zege amelira tuwoho wa umo julopheg sudjowwud wudas rikte imureh jipeil cakripih kar. Kuh ar wevdifwi uhepez holaroral do ufa jinul enzaw hep gi bunhojo nu celejez ic."
+  },
+  "apiKey": "3e64a455d275fe244df0e7e08e8720acd97c7c9e6dd6ac9c19d83df74706c128",
+  "currency": {
+    "code": "USD",
+    "name": "United States Dollar"
+  }
+}
