@@ -1,0 +1,26 @@
+{
+  "name": "Marie Sparks",
+  "age": 18,
+  "address": {
+    "street": "Lecine Extension",
+    "city": "Isakokge",
+    "state": "NY",
+    "zip": "93490"
+  },
+  "contact": {
+    "phone": "(887) 388-3727",
+    "servicePhone": "800381272"
+  },
+  "birthday": "1994-08-12T05:23:00.985Z",
+  "ip": "73.182.47.235",
+  "foo": "bar",
+  "profile": {
+    "about": "Kazuna om apa jucev ti omi et id wos vakbot imapik goebeku lolmi nop jodgufaw. Rehwokha rur idivir zizogih joici jazde tihot supajza nuf sopes pugdop siosu kad dufi tidi pimherra. Izi fofbih cif suvfuzid johiw letwesze owfanziw lun ba tizuag ewefid cifihum ruvuw.",
+    "bio": "Or tiwan ofva atwot uhjo duv meepno ni uki lok tomza ugevak naizevej to adebopton. Imicu ve fib cemifaap ewjaz hitvot cies uftel obsekti nozutkid faf ko wop ruku sokovubo pagu vudiv huhlis. Ja be cujinonog cevem lap mata netivi lu se uwju beafudut mujzaji ju afwazaf je enenozin. Us salkav lalbar filhor uc lovnikva fub kawedu dikbake baras jemfeltus owre. Tiwut ejme mapiwiwa kavtob bocam sabi ahaap daned luj ke ren ofe fenkasnop safju sen woj bohdopu cikidito. Rulewfo gazewbo fomzured si ebuzijuc cu nelolzov jiwiz kened asbu ave haf lad idomevlin hegi. Bigravi zotom mogudewo levgaj ihaluot vego wajsu nazha sanovbeh manesej okouh mociglo koeb ziju."
+  },
+  "apiKey": "c19de9ce9b8ff64686795bafbb06e6c9fd3571022f5406af343922398e1f174f",
+  "currency": {
+    "code": "PYG",
+    "name": "Paraguay Guarani"
+  }
+}
