@@ -1,0 +1,26 @@
+{
+  "name": "Mason Boyd",
+  "age": 36,
+  "address": {
+    "street": "Webaw Pass",
+    "city": "Dutosum",
+    "state": "SD",
+    "zip": "87649"
+  },
+  "contact": {
+    "phone": "(650) 249-6508",
+    "servicePhone": "800883569"
+  },
+  "birthday": "1983-03-02T01:30:56.205Z",
+  "ip": "125.234.121.16",
+  "foo": "bar",
+  "profile": {
+    "about": "Veg bes dewovgid fivvid lopza ameertum lubif kozuk bitliljil ko wasub guhsa vasuv cidi elog. Woj isrog ugi ke jedwuc bafop red umtoc za akise ferziv mez wub iruzet. Ol mapid riz ru hev come ilu pogov emcemuz ma heb nisno ja kuhisfuh uve jit.",
+    "bio": "Vub hik ediko nufe ku limcavre kuiwu codujwuk diwisad foandir mi se fup paameji fes. Kubabica atogeivo remkence kowsu notfo ev jepfifwe gobolkar vewfob zaco kitamut zu tudja zu nazegoc. Pepnunwe ziv uwizedtas maja guh waferej vijik ipfu cunza sar sapagi ne niwoiru pe gin dirkic. Ovasoin tik rapze bifersik edmutsoc sevo jossej akoge sizus jievwu di midcilur selvuned. Li sodnaldis hec dezeh apja vu cersatsi ubudfas bo lutmahri gamzo liebije zipke cituw sahijo ukilepu pin. Zaki ahohfe amezoige gacowzig omirco so mezko jennisar divecas jajigo worip hornelo mefop sod. Arbozok hollefkut piipke iv wolupsu wi ubi ada got sioka habhu olu cer bebze jaknuuh dufeg."
+  },
+  "apiKey": "84338fa6f3ba540e19f5791d3d17ed68985b5cc7cdd78d1d513fa03afdf7a614",
+  "currency": {
+    "code": "SGD",
+    "name": "Singapore Dollar"
+  }
+}
