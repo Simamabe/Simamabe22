@@ -1,0 +1,26 @@
+{
+  "name": "Charlotte Klein",
+  "age": 42,
+  "address": {
+    "street": "Cuama Park",
+    "city": "Kogowev",
+    "state": "NC",
+    "zip": "35244"
+  },
+  "contact": {
+    "phone": "(655) 410-4218",
+    "servicePhone": "800565367"
+  },
+  "birthday": "1976-06-03T16:08:28.223Z",
+  "ip": "123.67.65.43",
+  "foo": "bar",
+  "profile": {
+    "about": "Mili ileiv kifpo cupdimre hiwrishir ipaguw bijfag ucoeh melniflo si itevar berivona vumbavroc ef. Ap kuvgived hi riuwafeg lipca kalates sebubik diwra uttuta mafsahgen siofodun cofeog jofuf oboerrud vutamzi zubed sa zah. Nijja jappevda rupo ra pewjovzag ro vaebode nuedema re nu so ilwel ewi anuilife lupe feni mir eza. Kebi mobkote dah so jufos vo hi kinzasabe uku vu seb sola lazose riczi abirupa beujawa tuceb ad. Pizbeite efiumup tavmilo ece huzof ne ihohof topomna te vecibu johuzso sevap cawvako.",
+    "bio": "Avulefowi was re gamem suv benvimor vuwu dizon fedvifnag ziedafog ci maokaoti ke kobiw se. Zi numhabub fu ikakasi ziv goktejos otje eztabup alto egatul ajucit deih sejuj. Ma todluj etig sumkikumu kacdewec wacodva gil puwu kak lobru we haci amisos azozutfe."
+  },
+  "apiKey": "2497221da9ff84a04dcbe7d81976da523bdb6b55fe7f6ceb236a0c5a57e542d8",
+  "currency": {
+    "code": "MKD",
+    "name": "Macedonia Denar"
+  }
+}
