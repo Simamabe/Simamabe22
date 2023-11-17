@@ -1,0 +1,26 @@
+{
+  "name": "Barbara Edwards",
+  "age": 55,
+  "address": {
+    "street": "Pelbuj Heights",
+    "city": "Wihuti",
+    "state": "FL",
+    "zip": "99516"
+  },
+  "contact": {
+    "phone": "(743) 540-2321",
+    "servicePhone": "800962742"
+  },
+  "birthday": "1963-01-10T16:12:56.759Z",
+  "ip": "8.134.207.186",
+  "foo": "bar",
+  "profile": {
+    "about": "Nus fo vuztubed rik zub ule sodtenuh gih legon bovdozom doc fi kekjokmeg aj sojzi. Puleh na fe hezijkuf ofomit go vemrevof lapuuh laj da mok wumeese. Eco ju liama famaca dizlug tawe duzozpi osogorfe mam bicpirpoz vikaj gu ruvuj gomikik bawla bodros wigirris imiwi. Halofef deradil efiful iksuzjo fabo bufar oc jekedoni zahon vasronim hetara gosze zufezul gom hadawta reva wenan kalsi. Uko igipok ne ehimuhe gin mupwasuc tauf oz mav kivna lobub apvu.",
+    "bio": "Dunoj surbulim havdaved fodjur on dakefo aji al gehe timeznor muh sezinba cem mad asvabfef cosnovub. Lew za ivbus begevcu ecod hi fuenuhu afeegduj ojhekop buof men ociuweju la egagecla ezugu la. Ohifennu mi doheno mohvoru ha wulsut mik suciihe eb bubi popi nanum vaj mikuen oz. Je rigo podok menireco po lonapif jozwuici iracamwar ca resalze ri homikun ihiit bup sahkodlo manubgud methufu wifahup."
+  },
+  "apiKey": "3b6733c3b7c6370d647daafeb9068bb92d2099f7d6085504591c98d79d18a060",
+  "currency": {
+    "code": "SOS",
+    "name": "Somalia Shilling"
+  }
+}
