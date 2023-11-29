@@ -1,0 +1,26 @@
+{
+  "name": "Douglas Patterson",
+  "age": 59,
+  "address": {
+    "street": "Dinep Mill",
+    "city": "Ditaguha",
+    "state": "WV",
+    "zip": "28608"
+  },
+  "contact": {
+    "phone": "(948) 556-5725",
+    "servicePhone": "800744319"
+  },
+  "birthday": "2002-06-06T08:41:54.336Z",
+  "ip": "149.51.101.158",
+  "foo": "bar",
+  "profile": {
+    "about": "Giale jolo luumez vusupak panko hohonuvi beraf ozu toza ovabupuvo vav zekpejdot etcif nos kusfig. Zijle veesanaz fer ni okerici rajtoic wosase gatepak goojas le sehnuh lonowvek bihin bozlu ozo ho gighit di. Ulgebjas gemhoceh uz fup huzka mim je ebemad zucom ojo cavnafi dicboure jausu aczed pu. Cu nalite eca tevom jogavwo adoweno loneko wodegna himo onci mugoiza givrid bajom azo zahtef. Ersogaz lihtuzpev imabezbe pa ahrow jenapkaf wa ke tav ofa pafuwad ref duh. Nuwaklon pi fasikiti hur pezira jijcogwo oldivek arebat fa leigo nebep ah wufrulfo ni bebzi gisuin bagpiz.",
+    "bio": "Idwoh an ve ezjo fic areasi olfah feh igwile ne dac kofeli sobuhzeg eleza ujeko tuluom. Jo igzul pid fu wi ho pa nopuwet imucuce puzaho ropwoow eguovo kagvuw. Bustez ibwoni wa ocbod adsovsom dov ritfeh begzeom nibwuv di nov tej suitki lujuw boprini zek."
+  },
+  "apiKey": "d36ba0adc5605dc8e0a1245c7cb6d7b381863d45f3f8add551102fc3932071c6",
+  "currency": {
+    "code": "ILS",
+    "name": "Israel Shekel"
+  }
+}
