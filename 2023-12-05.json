@@ -1,0 +1,26 @@
+{
+  "name": "Adrian Owens",
+  "age": 26,
+  "address": {
+    "street": "Jirif Turnpike",
+    "city": "Imedeldij",
+    "state": "OH",
+    "zip": "32273"
+  },
+  "contact": {
+    "phone": "(245) 734-2972",
+    "servicePhone": "800637515"
+  },
+  "birthday": "1984-12-12T10:29:28.530Z",
+  "ip": "60.73.76.241",
+  "foo": "bar",
+  "profile": {
+    "about": "Tumewu jim daju dakdene boica edesegne di tangifbe lit na lik mikak gapopnit. Moz purkefon neblu fuadias romsikoco lanhos ikoli fopi kafni nuswe pajovof ulakar lam mal zefute os nomweoj korgon. Zipikup luz wir cikhucoz vihdemda bugu ro motseg kob ehoitesol gaguku derwipkic saj ihzakzo wugworhov oguhub duffaci mah.",
+    "bio": "Kahal vopo eracu busbun afika tidmir zofa mog he fa uri vadu ziugosi su ma filgamne. Fa fotho dopbi ozgahulo jujomu nos ronwupko ritar gunu owe ce cefsidmac gab wusreveh ro. Iza tundabopi bi cetpu ciddulwi zeto muaji nac tunbig gezorpo fi masuop."
+  },
+  "apiKey": "7b263f72a4d806c01e192dc8611de1726dabf452ffefad4acba3c421a40a0b25",
+  "currency": {
+    "code": "XDR",
+    "name": "International Monetary Fund (IMF) Special Drawing Rights"
+  }
+}
