@@ -1,0 +1,26 @@
+{
+  "name": "Sally Johnson",
+  "age": 36,
+  "address": {
+    "street": "Letef Boulevard",
+    "city": "Mewbouka",
+    "state": "MS",
+    "zip": "67624"
+  },
+  "contact": {
+    "phone": "(825) 953-6071",
+    "servicePhone": "800253695"
+  },
+  "birthday": "2005-04-12T01:18:48.529Z",
+  "ip": "187.51.238.221",
+  "foo": "bar",
+  "profile": {
+    "about": "Asioruoce hikpavis nuc ku imo tasaul ar ur rafopnot fordajmus co ifhoed kuik kuuzlek. Otak joh sehiwij togetgec vuz zofvapir wi nuhowus cahab te ifi dicar izu ibfivvos owo mawpuvzem. Selces uzi kaj fito lidnuh re noddi mowjac de wu ufogis mem ta hodo bev. Fepvizo ev harri kabgo efarupif fum sudzoig suv kagce zucic kurmu omavol. Kut ir vohwajnuf jupo megejic nuhekev idwihsog ehniduto dobmiobu ubugikig ze tetdi. Ceze uv iwo rujgu bafra sorrezi hejta te kaktu ep fohik kanfobe etfu mafdojvof ze.",
+    "bio": "Ehvelfem co lo kokvo latemzu te sogaphiv dojohri su dasat viner gizop suwirgu. Ove ronap barga rusa pavnufo pikemus uvlazeha te ibsule rek hewaz sap relecap ko dodtovki dowsu lutejah. Esi gifufgo sokoh zuh uhu ife zib faika devo di obeccun cewowdo nos nuwome ukle. Gostepun sarrod kuku mobdaj nujufcas cuwo riwazfif puib newba todkir ec doppu wibig jejfo. Burvuub biuzu itohulu rid hetaz rer juup kojocrik jecmob at paan dal ore zoajduw keuw worfojtuj. Vulba hil mahed villeros rapaf sum ume nukecgu ti ro lierek ferunfe ucijun tijaf mo. No dogup rojigpeh ledbit zep ob lubuwol alci ka oba bicihuzi zasejo luzelle jufuaja we."
+  },
+  "apiKey": "3b4a2bc67c44809a0f016213257bbffdcf445302bf082d449c8a9e852fdbbe79",
+  "currency": {
+    "code": "DZD",
+    "name": "Algeria Dinar"
+  }
+}
