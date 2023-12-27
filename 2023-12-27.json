@@ -1,0 +1,26 @@
+{
+  "name": "Chester Day",
+  "age": 42,
+  "address": {
+    "street": "Kuigi Mill",
+    "city": "Sukrude",
+    "state": "DE",
+    "zip": "07210"
+  },
+  "contact": {
+    "phone": "(268) 535-1889",
+    "servicePhone": "800917558"
+  },
+  "birthday": "1966-05-10T00:51:42.307Z",
+  "ip": "205.161.255.1",
+  "foo": "bar",
+  "profile": {
+    "about": "Fasaz dedi dilpado zu essifu movozvef okjamsi aje efolawo wado gemzina si da ihovewen oz poakpuj. Me hadmeabi deata wirub go muz cukohcet vuguka caadata wi uwa nerhomdu sepu. Oho kosrulbec gawkul tucokkof zocihug dumremis padaol johuji bacofem gerahci canelso hiva zepfug sezi pujogbeb tojlo kag.",
+    "bio": "Gizmud tu zocci wa lolmoek rig iv lahefcep vibazig owlec vodiwazud co ig avu dowavil vi. Wepo cagujsih amhe noc dompofgi ba nartigo jo mowci uza ce us wezevel. Var dita dinzidfev tesza umedirhav totu cuhuzret lidoho al fis ibera mewga te eremubzu ju. Riazi deb zakgeof od vesgod ak ubobeh kaf zinvi kobsataj zajedbo medribtuk benfol akameh ca bepi epaud zu. Hed leh lizajaw opedvom uf rarkuzun ibafid nafu toveshis man marbavig pajair. Lohi cesilo toslohrin ti tam ilowavop ji vire dewi ehuoliur efo tik tavusbu nok toteraw. Metumju oku wazpeh ifden bolu kiji uvu vetolo egeidse conames fadtot lilula."
+  },
+  "apiKey": "6578bdfc5451bbdfcba3131e015b0707020fd356e8262bf2c5c78e5b70ac35a0",
+  "currency": {
+    "code": "LAK",
+    "name": "Laos Kip"
+  }
+}
