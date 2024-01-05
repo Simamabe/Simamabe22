@@ -1,0 +1,26 @@
+{
+  "name": "Herbert Soto",
+  "age": 53,
+  "address": {
+    "street": "Gison Parkway",
+    "city": "Uzmuis",
+    "state": "ID",
+    "zip": "44784"
+  },
+  "contact": {
+    "phone": "(253) 382-9554",
+    "servicePhone": "800214637"
+  },
+  "birthday": "2000-10-15T19:48:32.334Z",
+  "ip": "244.17.156.182",
+  "foo": "bar",
+  "profile": {
+    "about": "Warot befkaug norhumem luw roc on ozafa fokatot ewoudrit naisu es ucu vovmilo. Nudunu sias celze okti unedefdur toirtes magafdag lermoh gozponih bok ki dagfuhhah pa votecaz di wu amo gerhu. Ja kaleto huwnuh sawdemwo etso nabwugroj bu ifizu nevzis waswok uh cig tav laguz fi laache.",
+    "bio": "Tikoffi dor fel das sirev fazgi lobni jer dofalwi mofnajze fe keh jihvejev mian pum. Ji ab mulud upaluto vawwaruk tebirju hoju bizasazu diraf vepcipe levzoguk cimagi kaful mazdewi gud ozovaga. Ewsoz novat zoes co ta wi javon jogibo luda ebu lune pajuco sugubwo ca zo cahukbap."
+  },
+  "apiKey": "f6a36f1eb6124ef6d2a763c843c065c9096d1cae18fe1fda11663fc7542332ab",
+  "currency": {
+    "code": "AWG",
+    "name": "Aruba Guilder"
+  }
+}
