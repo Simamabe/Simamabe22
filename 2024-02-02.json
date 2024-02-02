@@ -1,0 +1,26 @@
+{
+  "name": "Nathan Lynch",
+  "age": 18,
+  "address": {
+    "street": "Fiju Glen",
+    "city": "Korevvi",
+    "state": "OH",
+    "zip": "95661"
+  },
+  "contact": {
+    "phone": "(212) 979-5147",
+    "servicePhone": "800562469"
+  },
+  "birthday": "1989-04-21T20:35:43.904Z",
+  "ip": "170.136.43.140",
+  "foo": "bar",
+  "profile": {
+    "about": "Loburo rehhawa keozi mizgodke perke fasa lopnoj ta adagahomu gehwivlet uju duv. Nioson cowja ezsiv va debgofim uni nu acocol wu ho hojit wo vovem. Seleimo si ewe hipfo jaavte dob vofis voltiut muujuogi ja oz nivel. Didom purkiv gaje igi lo nuto debsom ka uwocop evcase aze deco maz. Mav emi ugo hipfugu weg tewvo doztohva mipla meptodkoz tejaho jif obure firael zas but. Vi areloviz vopebpor jukbi ziktoho hutowifi mehti zejadof ka du kagizbot kahzo ok mu jomuzweh ve let.",
+    "bio": "Ejajadvad re sen woregnu cizvuhov facuad aveukbe roppep baci bivok na hucviis pa ti. Jiraasi danfati getja zet ibefed ce mowo aci toiciebi lorak ar jicuf fesbeg. Punub sarli igsog otokuwo wob mohgi moafo ba dubafbi iznoopo damnafi rakmow wi ere atzi."
+  },
+  "apiKey": "59b2a9f378db8be6fb6a6ad5985b4a7d7063aa0d5ada2a56c6f1625e935fadae",
+  "currency": {
+    "code": "USD",
+    "name": "United States Dollar"
+  }
+}
