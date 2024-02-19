@@ -1,0 +1,26 @@
+{
+  "name": "Warren Rodriguez",
+  "age": 46,
+  "address": {
+    "street": "Awje Loop",
+    "city": "Iklezag",
+    "state": "CO",
+    "zip": "22194"
+  },
+  "contact": {
+    "phone": "(457) 928-3747",
+    "servicePhone": "800945591"
+  },
+  "birthday": "1962-05-13T14:46:42.426Z",
+  "ip": "40.143.149.232",
+  "foo": "bar",
+  "profile": {
+    "about": "Gud zuhdezi ku eb honnirir uhebimo fagnal wedebna do cacot ba lubius ovano nug rod. Dos pulhu zupru cawhij ji digimeb nis ez zaffuw pufobi cobutpuz cim subocle. Tas piwenaka suvuzi jo dawujaru ru bifihjet zizzaznoc bar onjaj etig hufacdo. Tetet buz vudeep disnakif ke jem obaha se tep niz ge digimto.",
+    "bio": "Pazgobku et cuhana nihug cewewi su obsom ki behzalome fakip siv ta. Tedor zu ra ir sihew bupujfo zu uwe id kevocot rogkusob huhaj. Ceti facpot kopnudibo uwo katbagop saco bun uco huizem pahu opcewwi kug cobi barobfo zu. Pa eha du bifuh tic casiji zi evooz ginmuj upa ho enrocijo bawenal ba wodciboz. Higik masic roz igepil wo tuzvijec mipowa cik deherah micpaub ogi mo. Tu uz lutumekih kuliz nabiscul rikvid nu pav ade ga eka awapuje tunior jiva fawlabjiz ocnozhow he. Ofejad odolef jul cakhiiv fiknip nadkoh jecdi emkav ra fikmahid wov wo edfomre."
+  },
+  "apiKey": "f19e97900e7d06d5ab368bbe4b8d3636194b41ebe740e7f83a8bd90a8e23ecf7",
+  "currency": {
+    "code": "BIF",
+    "name": "Burundi Franc"
+  }
+}
