@@ -1,0 +1,26 @@
+{
+  "name": "Victoria Reese",
+  "age": 20,
+  "address": {
+    "street": "Caaba Ridge",
+    "city": "Areduka",
+    "state": "MS",
+    "zip": "74856"
+  },
+  "contact": {
+    "phone": "(829) 728-8696",
+    "servicePhone": "800831163"
+  },
+  "birthday": "2003-04-30T02:34:24.312Z",
+  "ip": "108.113.138.127",
+  "foo": "bar",
+  "profile": {
+    "about": "Wuf mewliv tic vosepe vap livdeefa duj gu fusicnas ke tag husam ow satvif fi zupvoj houci necenba. Feza wufmol fipipaku dovubru pobi ojase wolalu fovaco nonjatvu ehzitoz owuvoli ikone nu puz zuomhi. Leferzag jugufe maz nubah wawzokvu ejler if ig zaut pezsuz si oguil ralab rihji gi ponohos zusmebu canliftu.",
+    "bio": "Rib jopec ajufi gotelir rushezo gobij ractireb zoketav ilodi pic lijevpe livu zumomihi vizelum filjuwal. Hoka joagda buzan evakitew ej fo picaz eg na bolaw li wiudovu je kipun cepcivu dagicumav. Muswecuci jaj kavhotu ulod manrokji varim ivtuv miume regij avwafnif vur ikatoz. Usofa sig zogor owwod osmoju kuwepafob ga da rig jugjoce pol ewiida ecged wes uhvekre cuabwe abzam zifca. Kosotav wihi soknuzo epumep nutun gelpemu wata tegsehgu duajde mulvemvi opekerev re evemosan. Wocuz pifihdo uffioje zowami vekajo wagag co navtozibe sejwotfu hici fac danduho fuhra vo ukno."
+  },
+  "apiKey": "9a780419b97b73769f3b21f35653370f727e71a1ce1bb6f66b288da19c125bc9",
+  "currency": {
+    "code": "CNY",
+    "name": "China Yuan Renminbi"
+  }
+}
