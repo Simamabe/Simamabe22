@@ -1,0 +1,26 @@
+{
+  "name": "Elmer Sparks",
+  "age": 34,
+  "address": {
+    "street": "Murgu Park",
+    "city": "Pomujeutu",
+    "state": "SC",
+    "zip": "86611"
+  },
+  "contact": {
+    "phone": "(658) 213-4759",
+    "servicePhone": "800624489"
+  },
+  "birthday": "1997-01-12T04:59:55.310Z",
+  "ip": "138.155.80.9",
+  "foo": "bar",
+  "profile": {
+    "about": "Ga jakezwe kefijfef porkur ma bigzi da nut ga vufudi atuhibzoj rajucu tovako mu. Anludmi le zeut ok midu hiub meiwatof ovohi abfan aj jokar win perfosit. Cizuwfav teec awob copnez vivebosa ki cujdo nu rupzow zoiwo ca diseriaju bi redaw hube lat bepla. Man tijiwip co waafo udju ruwiri kumo siteh wojehieda kevom ro ozriknir butaf wa vifvepi.",
+    "bio": "Kobti fapza lufbi piw fijun bo oj no bel fuwsi lemej cu wil. Utkabsam sani oro si am niwjudli ikolkeh odbu zamefetu upve ibo cim di bateripug zirben afatice senumpot efaizu. Bu rupbu sa fonid ti gakbadret tajca maho obu lul ac go. Suteh mu hav ifame ezi gawebih pavba hut wokenger nac va duvdo micat erzalam dipurce sem buge."
+  },
+  "apiKey": "adb136aa5b78f879989679dc90859f4673e97c80a685b3588785c10f3d86f2e0",
+  "currency": {
+    "code": "TJS",
+    "name": "Tajikistan Somoni"
+  }
+}
