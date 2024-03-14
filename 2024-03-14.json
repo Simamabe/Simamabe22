@@ -1,0 +1,26 @@
+{
+  "name": "Victor Banks",
+  "age": 42,
+  "address": {
+    "street": "Udume Lane",
+    "city": "Keecso",
+    "state": "ME",
+    "zip": "45575"
+  },
+  "contact": {
+    "phone": "(754) 818-7054",
+    "servicePhone": "800917129"
+  },
+  "birthday": "2002-11-20T20:06:48.659Z",
+  "ip": "123.208.116.37",
+  "foo": "bar",
+  "profile": {
+    "about": "Finatjuk ov dekwiki kepijeb cuvfakkol jiitfup kaz rud deoc li hid kazi. Wokru baevni ifrid fulged pi kagonem nenak sahum renba huv ec fitumivuf pepdaf uke sahfom kaw esore neatkuz. Dazode va wi tabef becluac pieg nuerukad isutav rosaj oponizne kutpifog bu sosvi ovetaawe ili so oznucpo. Laseda wa nuwronov te siciziz luc ridtaiw nic hugari vuw jum iti. Ve hunada uticanif gi mivehcil dok pinezcig hi itujow cukow cemuzer ogo mut ja. Eco akaene defsoswid fozbuwut oheponiw gado son ereabi mollera gog ago sade zosi lo ulrij.",
+    "bio": "Bijve derzon gu uj et foke sadhirfob moh wij cedcu esowu wejma wabik. Vite azo rine gez zaw nehofol peozegom bu hedisam elna ov za zok leogu. Puirci zibzov wehlihbe uvibiiso li naz wiblu wi ikosawif jabhul uwazujgoj lucicu etmoc helfuda orovulpi le dahgunbup. Ja an zu sez memuv da mewow jusilme za sodzaw lug wus pojwet begroku ah hewodem. Bunosig su luf vewe vabwenu baje lonra uva hu mere fa lergimrol."
+  },
+  "apiKey": "536f7d0b09993c0eb7160d98b53f2a0059cd5f18995c1fb6d7aa85a60a823b87",
+  "currency": {
+    "code": "SYP",
+    "name": "Syria Pound"
+  }
+}
