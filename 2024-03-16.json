@@ -1,0 +1,26 @@
+{
+  "name": "Bobby Schmidt",
+  "age": 37,
+  "address": {
+    "street": "Ridle Street",
+    "city": "Nuisomuj",
+    "state": "OK",
+    "zip": "96346"
+  },
+  "contact": {
+    "phone": "(979) 426-1805",
+    "servicePhone": "800864118"
+  },
+  "birthday": "1999-11-11T12:22:57.714Z",
+  "ip": "165.91.206.249",
+  "foo": "bar",
+  "profile": {
+    "about": "Zunojmo pi desaasi wed supu etvan dugli duul vet lulrujmez feroh zebbuka mohhaf bi tuwjocjar. Afu boboaru fevu bum icoabapac na tuvo hozojew vekukiz wadi hogbo anacoc kisliowa ma pu. Wu fahehef jasaf sa to koodahi aju deac tefko doso ukvetle me war det dok.",
+    "bio": "Zuin ta ruf iviup ives bud raiwa wuzpabet re cavumo neufoor ospozi kin. Ohe heknijil beekke uju leki ope ge wenu ecapitfe la lazu ehapi. Wuhatvij wi vetenwak igip wad wo senlef ovavegoh ifcop puhbowo ug ek ziga ribo bu alrup soso. Vogsi awihulir avu vakewtoh tas uh jeruhu lobiba avebavu pof hevcun mazjahrav kavjojum."
+  },
+  "apiKey": "672fa60ca9d3911399c8ea341ee92f539177c3e5b86e3e5dc47dd5fdf949731f",
+  "currency": {
+    "code": "AWG",
+    "name": "Aruba Guilder"
+  }
+}
