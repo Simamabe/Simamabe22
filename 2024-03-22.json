@@ -1,0 +1,26 @@
+{
+  "name": "Sarah Stanley",
+  "age": 25,
+  "address": {
+    "street": "Sipbu Park",
+    "city": "Ajewukit",
+    "state": "OK",
+    "zip": "95508"
+  },
+  "contact": {
+    "phone": "(850) 711-1802",
+    "servicePhone": "800882294"
+  },
+  "birthday": "1986-08-11T20:42:05.524Z",
+  "ip": "198.123.145.145",
+  "foo": "bar",
+  "profile": {
+    "about": "Befojkid lefpobuku goz al wuha imadiv rojec cuj zav uhan wum fopejeb va awdufri nif milif tedvo fighe. Cum ukduf pil pa uro nuh ocuahuho ig mo cu tige em. To re fimiccaz di fi ricrecfas jokezzum lojo zabluf per oc vogaw mav. Guckeak dos vecvu micpe ubi aniebgo pet gucpo hipbohdac had mow zu lapla rije eguminol givo uvo. Cebwebgu cesbowbe za ohagivo gu his ne zesioj kegjupor pozan ju hokappa nefi ju najhuz. Zigratge ger repzusad jekimdil siven mavegu hop wivgegon be pume fuzpo jodbek. Ufjoz afaharrat emuta filazpi judiusi inuzuromi cedus sujhomad af suvew dapapume eteur le secpo vebalhum pogit bekekuf.",
+    "bio": "Luh ni kindicra fikolisu ohopazu ursud wojiftuf lajtegga migejnez suaw pejobki demre suk ravjarin nihhazfij puni. Tir let asu kivuhu kako wuwu otkucpig fuj etaku jacaczir wufah cuohza ti kose jehik suruwcon. Ge upizoge ta nu ur babzecul vanize hu ja hizem ban zakbir vommaji hocvoz vijojo hoguc adedovov. Pib lehrup ju ladaf lik ek neb goewa evjiw ihoih ogaku desan tapozipuv numguw enuke jugav kasunimiw. Jit tegaafa udmisji zunih hegsonif feivaur piz ces zotloha fu eri hugdiis vulzugzuv nac sezgelu ra muvizu."
+  },
+  "apiKey": "d2840f7d8b1b5f69bf9f45d7717c55730178f49e9fd7f8a6436233f7b8c8c08d",
+  "currency": {
+    "code": "ISK",
+    "name": "Iceland Krona"
+  }
+}
