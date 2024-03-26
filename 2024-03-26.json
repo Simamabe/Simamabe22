@@ -1,0 +1,26 @@
+{
+  "name": "Norman Weber",
+  "age": 57,
+  "address": {
+    "street": "Umsic Key",
+    "city": "Bifrovsi",
+    "state": "ND",
+    "zip": "36352"
+  },
+  "contact": {
+    "phone": "(558) 445-5316",
+    "servicePhone": "800273766"
+  },
+  "birthday": "1980-02-05T01:32:32.075Z",
+  "ip": "143.29.71.167",
+  "foo": "bar",
+  "profile": {
+    "about": "Vo anu siglif tuzotet rannig nowet hi gogbotac haehvid bonabim codehka caksamig navjela suome zesfuf letiuli. Al nururo gofuf tolcu suvvo gid om kopovon zegis hentues kupitik hi hov jimivha ker game renaggab. Epoic kuduvihu nogewba hoh lomvezow cuh mopkamru utomorcep haafo matek akada lahkuca uho iddor ip usewe lusac.",
+    "bio": "Fe og gunzeji ne he vuza zab meto fonep jujuc vabo ici sa bivecogad jeite ku. Tiweuku dev hiw nuncisuc kowcu ibadem biwepap ufi ugvaezo ruopelo geki cesgeda neopew. Vichuh te cud pov vohsuta pespaw vof eja lavmewcud zeluzdul humenaf zasvighu uduevfa miwbi amrat."
+  },
+  "apiKey": "8880160732aa9d10343cbf1dddc713bf1f2ae287e95a7227df5ddc7a8ff6aeb4",
+  "currency": {
+    "code": "ERN",
+    "name": "Eritrea Nakfa"
+  }
+}
