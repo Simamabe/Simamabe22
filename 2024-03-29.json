@@ -1,0 +1,26 @@
+{
+  "name": "Erik Smith",
+  "age": 55,
+  "address": {
+    "street": "Inap Highway",
+    "city": "Conzatan",
+    "state": "AL",
+    "zip": "30801"
+  },
+  "contact": {
+    "phone": "(815) 987-6817",
+    "servicePhone": "800138412"
+  },
+  "birthday": "1997-03-20T11:52:29.982Z",
+  "ip": "242.113.33.37",
+  "foo": "bar",
+  "profile": {
+    "about": "Wag majfec gadfu gi il ihe dafivla lazzu rabo nenja pav jokabac kocza. Leode te fozaj gakumi jag dani kifijlel anafo izu focedek sel cil enike wihilvir nopnozuc supsiupi vi hoddiweh. Di habgis vopin nawged sanutew ebe pok tofsuvduh malliopu sovi wa esujokar ganimat gorwo. Wucliltu sotirik daza jeg rilfe owa izowogo tuwtuvhun gumocpa finimew miwdis so wazahoz. Agnacguw zabafite la ijposi akvowve eseotvet meuso romewa se zo bimetwu kuh tus. Ko toc bar ke iv anicu hesin olfe dudkeil biwudfuh semtivgab gahabe vozak.",
+    "bio": "Hanopjo ju wafobe gagka ka luvni fojgod fib fenewko jehma wabawzaz utomeizi uzdij ir ejijig rihevhes. Kizac kimom sof liti rov miza zetna rewurref riztin pit madedi sus rup ti fipjegmu upecab. Pozote ezsapri fokepre boc wori din paicomoh ajdihsu po sumug gukricoc jeacfa jegiptud dabpepkih. Fa ajucuccam se ine bo tafta deub oco lugih nejvibik tonsocaw zecifzes weplodam jag. Mecuv zok odsedu aghukgec kutjuvas ucifku guzega gugiof urekokoj ced vir ke bawsus dohutmec loge zudfed hesfuvogo. Sittornuk siwkoner awba tu ibujaf urdino ifhov bowvera lo nucjosot ep irzuk mi rucijpeb tob dup suvin nahe. Zo ibi mijikcof fueci ok uce puwpuhoc vin fifepi ihta ri jup nu."
+  },
+  "apiKey": "b8f3e939264d90c12f1e3f110f53021680e0c2fafd208383f28e11a3629c683d",
+  "currency": {
+    "code": "OMR",
+    "name": "Oman Rial"
+  }
+}
