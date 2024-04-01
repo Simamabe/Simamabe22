@@ -1,0 +1,26 @@
+{
+  "name": "Sara Briggs",
+  "age": 44,
+  "address": {
+    "street": "Jikuj Ridge",
+    "city": "Zalebmav",
+    "state": "DC",
+    "zip": "12298"
+  },
+  "contact": {
+    "phone": "(360) 922-3340",
+    "servicePhone": "800136117"
+  },
+  "birthday": "1985-03-03T21:40:47.007Z",
+  "ip": "89.96.79.77",
+  "foo": "bar",
+  "profile": {
+    "about": "Ninuvupi asa hubilteg zidgukma so ep su lazmimiv ejuviwef ogalufze nulkejfew hibome cilefpet ma. Luagvu mesuvik higkura roiga in ruzaci runeccoh pa vu ijvuw mema wop gu rawdec ogaumcew ta. Uctaap hati ile cifisve ho wa pe mohumup osaod amo loszot zok gis asozsa sohji ehdo. Wu hu cohifiw ga lafof hasuit duuri tata peflina bonaveroc pob zugotuzu asili wogbipe culfup ja siloso murilo. Zudwar ukjel id wo wecoc muzehel ci pesora dedwi emi fu kadeon. Ucakez onuvocku du boz cidhocpov sob gegkervop vostupar dug kog hianmac ohwigan bac keh.",
+    "bio": "Niem orpo nucezih mofdom wikulha sigima hiulezuf om onepo hozve mavona jiujuza ned neh mij iwu. Sa vo hic bi iluek cop iv hedudop satwozah zaclepso hepu duvuz zivi li butwuvo perogja gih sid. Vesbijej rocan zibreh retihtes divuveoha kodo la nanmamop cidahmik puim vefmoal mekev. Vunmod cuh nogga bevzar azi iseemjam ekuwa jip zid wussenpa wo dah irji gunej si bajid ka."
+  },
+  "apiKey": "a8389c4571daf0f91433e0e117505362719aab3d0f6f87506bfd508e2fe2cc10",
+  "currency": {
+    "code": "ISK",
+    "name": "Iceland Krona"
+  }
+}
