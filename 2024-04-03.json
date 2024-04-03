@@ -1,0 +1,26 @@
+{
+  "name": "Randy Hernandez",
+  "age": 58,
+  "address": {
+    "street": "Hoblog Square",
+    "city": "Dunezuhe",
+    "state": "NC",
+    "zip": "65769"
+  },
+  "contact": {
+    "phone": "(411) 710-3800",
+    "servicePhone": "800725636"
+  },
+  "birthday": "1998-04-15T03:59:33.186Z",
+  "ip": "77.46.158.201",
+  "foo": "bar",
+  "profile": {
+    "about": "Su ta medpo kavvu miwivzo gamo wosetso moz ukel hukiguc detecud nara bifu edumano. Ejmukal siwnewhiv lafawbil iznefij irezocec pi fawva rifihhu jejmal orbi tumgekuc tag. Calmes ersic himer konsu imele etso wo zumti mu cettanta pisjokma wic jivuza beb ojupeklu wukbic cifvocbek efta.",
+    "bio": "Mur no nod fe cer ficawfa opo fozmu of ocapav nip zet. Haoloube jeari zehkisod na paaper he sakok jecavde jonro rilehta ciwsifve ufajet. Ditjepfap ca efesisvu vasil difzoji topdo lek hab nojezvum gekfobpe fuuco cafus puhpoce pebnuboz bakib dotjo."
+  },
+  "apiKey": "ce7ecf27fcf59f814111d43aa8e2c5e635f422baaf65f9e8c2b13f174e7eb9f3",
+  "currency": {
+    "code": "ILS",
+    "name": "Israel Shekel"
+  }
+}
