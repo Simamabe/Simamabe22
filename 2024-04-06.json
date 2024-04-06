@@ -1,0 +1,26 @@
+{
+  "name": "Amy Sandoval",
+  "age": 33,
+  "address": {
+    "street": "Dejca Point",
+    "city": "Ahaboisi",
+    "state": "NM",
+    "zip": "02307"
+  },
+  "contact": {
+    "phone": "(424) 470-5148",
+    "servicePhone": "800367183"
+  },
+  "birthday": "1976-09-28T18:37:52.281Z",
+  "ip": "137.177.221.136",
+  "foo": "bar",
+  "profile": {
+    "about": "Irfohdo wajfi jokrit wo cered weucded juzvuzsuc zuula cima ha kib pe ugowacem egabi. Zopu waborhi we tepivzi vacpi vo gitmintec dov vek duwe kuriwu lon mu tiherzaj nuwanzaz. Pehab ve lima mi je rohizo mozu nalo co imepolo zuc ucu ki uri pu.",
+    "bio": "Dicebri af gibaf ente rigso cozsunke si bebohec vor uc ufdaf fisposwo pohrewpa et hijab esouri kitfi. Ewmi dintum hemudnis gacoz hep pap tu zif dicbo notob iga abina ufokam mumwumsu fuhgo we jo puwne. Zeiwu uf nite bepkoedu mal obgodew za ziglazseg huc ke razmi at. Ja isarij ra sar no bu gi rotusgil vumo jip koniva misisreb duvcom va lobipa nezuc fu pev. Loremodis bi cade kirejpi pizuk alisusmuz ibbor luwe ribine zofatu ni vafo mu fasimgog."
+  },
+  "apiKey": "cfe4cab9fd9a4cbe16715310f2eb7da6a8669424753aa2b3e0dcf9d3535bdca3",
+  "currency": {
+    "code": "TND",
+    "name": "Tunisia Dinar"
+  }
+}
