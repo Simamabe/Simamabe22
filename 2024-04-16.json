@@ -1,0 +1,26 @@
+{
+  "name": "Earl Johnson",
+  "age": 33,
+  "address": {
+    "street": "Poabo Point",
+    "city": "Jabofmel",
+    "state": "UT",
+    "zip": "13689"
+  },
+  "contact": {
+    "phone": "(665) 970-5382",
+    "servicePhone": "800295239"
+  },
+  "birthday": "1973-11-02T06:20:47.795Z",
+  "ip": "44.211.11.241",
+  "foo": "bar",
+  "profile": {
+    "about": "Omtu ka fidji tad cewo vamjoopu fev urzu polto nuh egu artoh cengomsa dalevwop asahazwo. Nofup vatosiv egicotce pikih nodbif ilsoiji cez tefek miwdek tugipfa foobli obeapjus keuzo suptov fal is famwe kubmifuw. Beun ogek ticdajca ijodo tomav gohjuvgi goduso gajef opa zebizva waejpe ev lekje wefeip ujopuvmo kumbu hepsimom.",
+    "bio": "Ved apput kovehuz ekajumoz vevo jas eki ji in mapevir mo no tamce vohru foponi utusovig jenfib itjuz. Uceewu pe pusomiic voj obada akiaribaf icuwun uvmimdok virif codhahvak mam pujjah. Mef dat rebajler zid ez eturaatu ja emi ohuker itonu mo usi nudla. Wor jiajtek gutavus la edeboz ce ivupukmor bev un di mamini suhosa papih opoduvbem kilub. He ojeasafo tu nouw sabcicdas vod totidvo kusidmi ugo jodpaviha se girzag. Jicigu sirgim bad hutul oho fehgopci ewi pajmegfo ina no kini magose onegethip idudetmen vobuf fog eholujuc ewuzolnez. Ateju buha mozjisuz ko muska povasa jonmilso comupmuj jahho pedi citod tagu ide tukopi cunra."
+  },
+  "apiKey": "2c6f2a9b9aee31aa97d56531073571bc00c8c031fadbdceab5cbb1abefc110bb",
+  "currency": {
+    "code": "XOF",
+    "name": "Communauté Financière Africaine (BCEAO) Franc"
+  }
+}
